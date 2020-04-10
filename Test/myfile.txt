@@ -1,2 +1,3 @@
 This is a text file, Writing a change to the end of the line
 Editing from github.com
+This is the bug fix
